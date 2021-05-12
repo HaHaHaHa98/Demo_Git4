@@ -1,6 +1,3 @@
 Hello
-<<<<<<< HEAD
 tan da sua cai this
-=======
 tan da sua cai do
->>>>>>> tan
